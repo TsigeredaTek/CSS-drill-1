@@ -1,0 +1,81 @@
+body {
+font-family:Serif, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+h2, p .readme-wrapper {
+    text-align: center;
+}
+
+p {
+ font-size: 26px; font-style: normal;
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+   }
+
+.boxes {
+    position: relative;
+    display: block;
+    margin: 5px 5px;
+    padding: 1em;
+    border: 3px solid green;
+    border-radius: 2em;
+    width:30em
+}
+/*display: inline-circles;*/
+
+a:hover {
+    cursor: pointer;
+    color:red;
+    font-weight: bolder;
+}
+
+span { color: rgb(65, 5, 100);
+font: weight 600;}
+
+#box1{background-color: rgb(219, 73, 109);}
+#box2{background-color: rgb(155, 155, 10);}
+#box3{background-color: rgb(71, 216, 90);}
+#box4{background-color: rgb(49, 29, 158);}
+#container{position: relative;}
+
+.image{
+    width:50px;
+    height:50px;
+    border:radius 30px;
+    background-color:rgb(8, 139, 74);
+    position:;
+    top: 20px;
+    left: 110px;
+}
+
+
+h1 {
+    color:rgb(107, 7, 57);
+}
+
+.original {
+    color: darkred;
+}
+
+#rank1{color:darkred;}
+#rank2{color: purple; }
+#rank3{color:rgb(212, 127, 16);}
+#rank4{color:green;}
+#rank5{color:red;}
+
+
+
+.star { 
+    color: red;
+}
+
+.#wars {
+    color:darkorange
+}
+
+.list-container {
+    border: 2px solid black ;
+}
